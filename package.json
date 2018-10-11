@@ -1,18 +1,18 @@
 {
-    "name": "MultiOgar-Edited",
+    "name": "rad",
     "version": "1.6.2",
     "description": "Open source multi-protocol Ogar server",
-    "author": "Megabyte918 (https://github.com/Megabyte918)",
+    "author": "after",
     "homepage": "https://github.com/Megabyte918/MultiOgar-Edited",
     "license": "Apache-2.0",
-    "main": "src/index.js",
+    "main": "node bot.js",
     "dependencies": {
         "ws": "latest",
         "figlet": "latest"
     },
     "devDependencies": {},
     "scripts": {
-        "start": "cd src && node index"
+        "start": "node bot.js"
     },
     "repository": {
         "type": "git",
